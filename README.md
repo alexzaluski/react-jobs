@@ -1,4 +1,4 @@
-Job listings website built in React following Traversy Media's ***React Crash Course 2024*** [[link](https://www.youtube.com/watch?v=j8AVXNozac8&list=PLNqp92_EXZBJ4CBroxVBJEpAXoz1g-naZ&index=2)].
+Job listings website built in React following ***React Crash Course 2024*** by Traversy Media [[link](https://www.youtube.com/watch?v=LDB4uaJ87e0)].
 
 <!-- # React + Vite
 
