@@ -5,8 +5,11 @@ npm create vite@latest react-jobs
 cd react-jobs
 npm install
 npm run dev
-npm install -D tailwindcss postcss autoprefixer
+npm i -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-npm install react-icons
-npm install react-router-dom -->
+npm i react-icons
+npm i react-router-dom 
+npm i -D json-server
+npm i react-spinners
+-->
