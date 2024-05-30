@@ -12,4 +12,5 @@ npm i react-icons
 npm i react-router-dom 
 npm i -D json-server
 npm i react-spinners
+npm i react-toastify
 -->
